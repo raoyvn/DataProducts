@@ -67,7 +67,8 @@ Here input(param) means param passed as input from ui.R to server.R
 
 TextOutput control for displaying mpg
 
-
+[Git Source Code](https://github.com/raoyvn/DataProducts/tree/gh-pages/DevelopingDataProducts) 
+[Shiny App](https://raoyvn.shinyapps.io/DevelopingDataProducts)
 
 
 
